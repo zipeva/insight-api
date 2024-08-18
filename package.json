@@ -1,7 +1,7 @@
 {
   "name": "@zipeva/insight-api",
   "description": "A 6Zip blockchain REST and WebSocket API Service",
-  "version": "4.0.6",
+  "version": "4.0.9",
   "repository": "git://github.com/zipeva/insight-api.git",
   "contributors": [
     {
@@ -60,7 +60,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "@zipeva/zipcore-lib": "^0.21.3",
+    "@zipeva/zipcore-lib": "^0.21.7",
     "async": "^2.6.2",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
