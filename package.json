@@ -1,8 +1,8 @@
 {
-  "name": "@dashevo/insight-api",
-  "description": "A Dash blockchain REST and WebSocket API Service",
+  "name": "@zipeva/insight-api",
+  "description": "A 6Zip blockchain REST and WebSocket API Service",
   "version": "4.0.6",
-  "repository": "git://github.com/dashevo/insight-api.git",
+  "repository": "git://github.com/zipeva/insight-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,19 +38,19 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/dashevo/insight-api/issues"
+    "url": "https://github.com/zipeva/insight-api/issues"
   },
-  "homepage": "https://github.com/dashevo/insight-api",
+  "homepage": "https://github.com/zipeva/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "dash api",
+    "zip api",
     "blockchain api",
     "json",
-    "bitcore-dash",
-    "dashcore"
+    "bitcore-zip",
+    "zipcore"
   ],
   "engines": {
     "node": ">=6"
@@ -60,7 +60,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "@dashevo/dashcore-lib": "^0.21.1",
+    "@zipeva/zipcore-lib": "^0.21.3",
     "async": "^2.6.2",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",

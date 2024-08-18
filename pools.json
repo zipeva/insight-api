@@ -283,7 +283,7 @@
   },
   {
     "poolName":"DASH.TOP",
-    "url":"http://dash.btc.top/",
+    "url":"http://zip.btc.top/",
     "searchStrings":[
       "/DASH.TOP/"
     ]
@@ -311,7 +311,7 @@
   },
   {
     "poolName":"Stratum Pool",
-    "url":"https://github.com/dashpay/dash-stratum",
+    "url":"https://github.com/zippay/zip-stratum",
     "searchStrings":[
       "/stratum/"
     ]
